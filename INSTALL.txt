@@ -1,0 +1,13 @@
+Note1: Please ensure that Biopython is installed
+Note2: Please ensure that g++ is installed
+Note3: Remove any previous installation of TEF2, i.e. the 'tef_search' binary in ./src/
+
+Run installation script as root or superuser: "python setup.py install"
+
+The above command will:
+- create the './src/tef_search' binary
+- create a './build/' directory (which may be removed)
+
+Once installed:
+- run "chmod +x TEF2"
+- access help with: "./TEF2 --help"
