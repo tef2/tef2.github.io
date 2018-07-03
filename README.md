@@ -5,7 +5,7 @@ or stay on this page to download the stand-alone version of TEF2 (compressed arc
 
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/tef2/main/master/tef2.png
+[logo]: https://raw.githubusercontent.com/tef2/tef2.github.io/master/tef2.png
 
 
 
