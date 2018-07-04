@@ -58,6 +58,7 @@ REQUIREMENTS
 Dependencies are:
 - Biopython (http://www.biopython.org)
 - (facultative) PyMOL
+- (facultative) NACCESS (http://www.bioinf.manchester.ac.uk/naccess/)
 """
 )
 
