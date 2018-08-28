@@ -10,5 +10,5 @@ or stay on this page to download the stand-alone version of TEF 2.0 (compressed 
 
 
 
-###### © 2018 Stratmann D, Pathmanathan JS, Postic G, Rey J, Chomilier J
+###### © 2018 Stratmann D, Postic G, Pathmanathan JS, Rey J, Chomilier J
 ###### Contact: [dirk.stratmann@sorbonne-universite.fr](mailto:dirk.stratmann@sorbonne-universite.fr)
