@@ -1,5 +1,5 @@
 # TEF 2.0
-### Go to the webserver: [TEF 2.0 @ RPBS Mobyle portal](http://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py?form=TEF#forms::TEF "TEF 2.0 webserver")
+### Go to the webserver: [TEF 2.0 @ RPBS portal](http://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py?form=TEF#forms::TEF "TEF 2.0 webserver")
 
 or stay on this page to download the stand-alone version of TEF 2.0 (compressed archive).
 
